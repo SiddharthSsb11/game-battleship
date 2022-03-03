@@ -17,6 +17,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let currentPlayer = "user";
 
+  let playerNum = 0;
+  let ready = false;
+  let enemyReady = false;
+  let allShipsPlaced = false;
+  let shotFired = -1;
+
   const width = 10;
 
   //Create Board
