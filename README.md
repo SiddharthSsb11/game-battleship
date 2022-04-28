@@ -14,6 +14,7 @@ This game is still work in progress.
 ### Few Screenshots
 
 ![Homepage](/screenshots/1.png "Homepage")
+![Singleplayer](/screenshots/3.png "Singleplayer")
 ![Multiplayer](/screenshots/2.png "Multiplayer Multiple windows ")
 
 ### Features
